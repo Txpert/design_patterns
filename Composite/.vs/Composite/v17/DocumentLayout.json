@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\design_patterns\\composite\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\design_patterns\\composite\\directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:directory.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\design_patterns\\composite\\file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:file.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|c:\\users\\kristina\\desktop\\yakha\\git\\m6\\design_patterns\\composite\\filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{981EC78F-B7C1-4D00-8782-FA8E3DF27B99}|Composite.csproj|solutionrelative:filesystemcomponent.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "File.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\File.cs",
+              "RelativeDocumentMoniker": "File.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\File.cs",
+              "RelativeToolTip": "File.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:02:50.668Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "FilesystemComponent.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\FilesystemComponent.cs",
+              "RelativeDocumentMoniker": "FilesystemComponent.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\FilesystemComponent.cs",
+              "RelativeToolTip": "FilesystemComponent.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:02:44.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACQAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T10:00:03.939Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Directory.cs",
+              "DocumentMoniker": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Directory.cs",
+              "RelativeDocumentMoniker": "Directory.cs",
+              "ToolTip": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Directory.cs",
+              "RelativeToolTip": "Directory.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-05-07T09:59:30.028Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

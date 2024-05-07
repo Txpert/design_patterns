@@ -11,6 +11,11 @@ class Program
         greenRectangle.Draw();
 
         // Prevents the console window from closing immediately.
+
+        Shape yellowRectangle = new Rectangle(new YellowRectangle(), 20, 35, 50, 50);
+        yellowRectangle.Draw();
+
+
         Console.ReadKey();
     }
 }

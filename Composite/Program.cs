@@ -24,6 +24,19 @@ class Program
             videos.Add(video1);
             videos.Add(video2);
 
+            //Create a new directory
+            Directory comedy = new Directory("comedy");
+
+            videos.Add(comedy);
+
+            File comedy1 = new File("comedy1", "Kristina");
+            File comedy2 = new File("comedy2", "Kristina");
+            File comedy3 = new File("comedy3", "Kristina");
+
+            comedy.Add(comedy1);
+            comedy.Add(comedy2);
+            comedy.Add(comedy3);
+
             // Print the contents of the video course directory
             designpatterns.Print();
 

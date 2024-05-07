@@ -8,24 +8,31 @@
     "net7.0": []
   },
   "packageFolders": {
-    "/Users/txpert/.nuget/packages/": {}
+    "C:\\Users\\Kristina\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/txpert/Projects/design_patterns/Composite/Composite.csproj",
+      "projectUniqueName": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Composite.csproj",
       "projectName": "Composite",
-      "projectPath": "/Users/txpert/Projects/design_patterns/Composite/Composite.csproj",
-      "packagesPath": "/Users/txpert/.nuget/packages/",
-      "outputPath": "/Users/txpert/Projects/design_patterns/Composite/obj/",
+      "projectPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\Composite.csproj",
+      "packagesPath": "C:\\Users\\Kristina\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Kristina\\Desktop\\yakha\\GIT\\m6\\design_patterns\\Composite\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "/Users/txpert/.nuget/NuGet/NuGet.Config"
+        "C:\\Users\\Kristina\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -38,6 +45,11 @@
         "warnAsError": [
           "NU1605"
         ]
+      },
+      "restoreAuditProperties": {
+        "enableAudit": "true",
+        "auditLevel": "low",
+        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -59,7 +71,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/7.0.315/RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.204\\RuntimeIdentifierGraph.json"
       }
     }
   }
