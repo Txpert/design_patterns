@@ -26,6 +26,11 @@ namespace Mediator
             }
         }
     }
-}
+
+        public void SendPrivateMessage(string message, User user)
+        {
+            user.ReceiveMessage(message);
+        }
+    }
 }
 

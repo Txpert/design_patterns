@@ -16,7 +16,8 @@ class Program
         chatroom.AddUser(user3);
         chatroom.AddUser(user4);
 
-        user1.SendMessage("Hello, everyone!");  // ""
+        //user1.SendMessage("Hello, everyone!");
+        user1.SendPrivateMessage("Hey, how are you?", user3);// ""
         Console.ReadKey();
     }
 }

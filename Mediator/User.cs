@@ -13,6 +13,7 @@ namespace Mediator
         }
 
         public abstract void SendMessage(string message);
+        public abstract void SendPrivateMessage(string message, User user);
         public abstract void ReceiveMessage(string message);
     }
 }

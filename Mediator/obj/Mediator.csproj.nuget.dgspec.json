@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj": {}
+    "/Users/txpert/solution_task_mediator/Mediator/Mediator.csproj": {}
   },
   "projects": {
-    "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj": {
+    "/Users/txpert/solution_task_mediator/Mediator/Mediator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj",
+        "projectUniqueName": "/Users/txpert/solution_task_mediator/Mediator/Mediator.csproj",
         "projectName": "Mediator",
-        "projectPath": "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj",
+        "projectPath": "/Users/txpert/solution_task_mediator/Mediator/Mediator.csproj",
         "packagesPath": "/Users/txpert/.nuget/packages/",
-        "outputPath": "/Users/txpert/Projects/design_patterns/Mediator/obj/",
+        "outputPath": "/Users/txpert/solution_task_mediator/Mediator/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/txpert/.nuget/NuGet/NuGet.Config"

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "peRti+cNeW27ZyRlLnz966vzJ5dAaO7Bqr8gT8qWjHelHCo3dr5OPuQ5zV898Qnbal12EsiTpeAE1AUpI7Gkig==",
+  "dgSpecHash": "I/qOuu525W7zszDS1xAofM/c8QZNhmOExVZkU5c0JZpEH68IQhTzwPzHA3OnMQJblCHNYX+bbDpW678xwBUU+A==",
   "success": true,
-  "projectFilePath": "/Users/txpert/Projects/design_patterns/Mediator/Mediator.csproj",
+  "projectFilePath": "/Users/txpert/solution_task_mediator/Mediator/Mediator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -16,6 +16,12 @@ namespace Mediator
             Console.WriteLine(Name + ": " + message);
             Mediator.SendMessage(message, this);
         }
+
+        public override void SendPrivateMessage(string message, User user)
+        {
+            Mediator.SendPrivateMessage(message, user);
+
+        }
     }
 }
 
