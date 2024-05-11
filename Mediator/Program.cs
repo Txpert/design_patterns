@@ -18,6 +18,9 @@ class Program
 
         //user1.SendMessage("Hello, everyone!");
         user1.SendPrivateMessage("Hey, how are you?", user3);// ""
+
+
+        //ToDo expand the program and let the receiver knows who is the sender.
         Console.ReadKey();
     }
 }
