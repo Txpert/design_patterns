@@ -19,8 +19,9 @@ namespace Iterator
 
         public IChannelIterator CreateIterator() //the iterator connection part
         {
-            ChannelIteratorNormal iterator = new ChannelIteratorNormal(channels);
-            return iterator;
+            // ChannelIteratorNormal iterator = new ChannelIteratorNormal(channels);
+             ChannelIteratorShuffle shuffle = new ChannelIteratorShuffle(channels);
+            return shuffle;
         }
 
         public void RemoveChannel(Channel c)

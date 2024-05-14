@@ -14,6 +14,7 @@ class Program
         //IBankTransactionCommand command3 = new DepositCommand(timoBA, 1000);
 
         cashMachineSC.ExecuteBankTransaction(command1);
+        cashMachineSC.UndoBankTransaction(command1);
         cashMachineSC.ExecuteBankTransaction(command2);
         //cashMachineSC.ExecuteBankTransaction(command3);
 

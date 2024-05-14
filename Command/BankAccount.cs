@@ -12,17 +12,19 @@ namespace Command
             Console.WriteLine($"{amount} Euros have been deposited into the account.");
         }
 
-        public void Withdraw(double amount)
+        public bool Withdraw(double amount)
         {
 
             if (Balance - amount >= -OverdraftLimit)
             {
                 Balance -= amount;
                 Console.WriteLine($"{amount} Euros have been withdrawn from the account. The new balance is {Balance} Euros.");
+                return true;
             }
             else
             {
                 Console.WriteLine("Not enough funds available.");
+                return false;
             }
 
             //Balance -= amount;

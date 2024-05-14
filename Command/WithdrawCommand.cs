@@ -5,6 +5,7 @@ namespace Command
     {
         private BankAccount bankAccount;
         private double amount;
+        bool transactionSucceeded;
 
         public WithdrawCommand(BankAccount bankAccount, double amount)
         {
@@ -14,7 +15,20 @@ namespace Command
 
         public void Execute()
         {
-            bankAccount.Withdraw(amount);
+            transactionSucceeded = bankAccount.Withdraw(amount);
+        }
+
+        public void Undo()
+        {
+            if (transactionSucceeded)
+            {
+                bankAccount.Balance += amount;
+                Console.WriteLine("The withdraw was made by mistake. New Balance: " + bankAccount.Balance);
+            }
+            else
+            {
+                Console.WriteLine("The undo funktion cannot be excuted");
+            }
         }
     }
 }

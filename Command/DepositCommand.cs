@@ -16,6 +16,12 @@ namespace Command
         {
             bankAccount.Deposit(amount);
         }
+
+        public void Undo()
+        {
+            bankAccount.Balance -= amount;
+            Console.WriteLine("The deposit was made by mistake. New Balance: " + bankAccount.Balance);
+        }
     }
 }
 

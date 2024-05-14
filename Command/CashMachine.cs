@@ -7,6 +7,10 @@ namespace Command
         {
             command.Execute();
         }
+        public void UndoBankTransaction(IBankTransactionCommand command)
+        {
+            command.Undo();
+        }
     }
 }
 
